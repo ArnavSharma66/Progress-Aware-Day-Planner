@@ -17,7 +17,7 @@ Define your daily start time, set categories (like *Work* or *Study*), track tas
 - **Quick Time Logging** → Add manual hours/minutes when you’ve worked outside planned tasks.  
 - **Timer with History** → Start/Pause/Stop sessions and save them to categories.  
 - **Timezone Selector** → Switch between multiple time zones seamlessly.
-- 
+  
 ---
 
 ## 🖥️ Demo
